@@ -6,7 +6,7 @@
  * @version 1.7.6
  */
 
-namespace kartik\base;
+namespace ashgaliyev\base;
 
 /**
  * Asset bundle for Html5Input Widget
@@ -14,7 +14,7 @@ namespace kartik\base;
  * @author Kartik Visweswaran <kartikv2@gmail.com>
  * @since 1.0
  */
-class Html5InputAsset extends \kartik\base\AssetBundle
+class Html5InputAsset extends \ashgaliyev\base\AssetBundle
 {
     /**
      * @inheritdoc

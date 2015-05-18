@@ -7,7 +7,7 @@
  * @version   1.7.6
  */
 
-namespace kartik\base;
+namespace ashgaliyev\base;
 
 /**
  * Base asset bundle for Krajee extensions (including bootstrap plugins)

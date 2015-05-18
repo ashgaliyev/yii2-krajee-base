@@ -7,7 +7,7 @@
  * @version   1.7.6
  */
 
-namespace kartik\base;
+namespace ashgaliyev\base;
 
 use Yii;
 use yii\helpers\FormatConverter;

@@ -7,7 +7,7 @@
  * @version   1.7.6
  */
 
-namespace kartik\base;
+namespace ashgaliyev\base;
 
 use Yii;
 use yii\base\InvalidConfigException;
@@ -49,7 +49,7 @@ class Config
     protected static $_validInputWidgets = [
         '\kartik\typeahead\Typeahead' => ['yii2-widgets', 'yii2-widget-typeahead'],
         '\kartik\select2\Select2' => ['yii2-widgets', 'yii2-widget-select2'],
-        '\kartik\depdrop\DepDrop' => ['yii2-widgets', 'yii2-widget-depdrop'],
+        '\ashgaliyev\depdrop\DepDrop' => ['yii2-widgets', 'yii2-widget-depdrop'],
         '\kartik\touchspin\TouchSpin' => ['yii2-widgets', 'yii2-widget-touchspin'],
         '\kartik\switchinput\SwitchInput' => ['yii2-widgets', 'yii2-widget-switchinput'],
         '\kartik\rating\StarRating' => ['yii2-widgets', 'yii2-widget-rating'],

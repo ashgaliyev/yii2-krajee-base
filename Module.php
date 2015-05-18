@@ -7,7 +7,7 @@
  * @version   1.7.6
  */
 
-namespace kartik\base;
+namespace ashgaliyev\base;
 
 /**
  * Base module class for Krajee extensions
