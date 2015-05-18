@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kartik\\base\\": ""
+            "ashgaliyev\\base\\": ""
         }
     }
 }
