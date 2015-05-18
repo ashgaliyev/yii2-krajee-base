@@ -9,7 +9,7 @@ yii2-krajee-base
 
 This is a base library with set of foundation classes and components used by all [Yii2 extensions by Krajee](http://demos.krajee.com). One can use this base library during creation of one's own extensions if needed.
 
-> NOTE: This extension depends on the [yiisoft/yii2-bootstrap](https://github.com/yiisoft/yii2/tree/master/extensions/bootstrap) extension. Check the [composer.json](https://github.com/kartik-v/yii2-krajee-base/blob/master/composer.json) for this extension's requirements and dependencies. 
+> NOTE: Remove bootstrap from dependencies
 
 ## Why this extension?
 To ensure a leaner code base / foundation component for use in all Krajee extensions (e.g. yii2-widgets, yii2-datecontrol, yii2-grid, yii2-dynagrid etc.). This should allow most developers to plug and play components only they need, without needing the complete suite of widgets. For example, this mitigates [this issue](https://github.com/kartik-v/yii2-grid/issues/123). 
